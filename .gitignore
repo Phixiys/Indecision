@@ -4,3 +4,5 @@ npm-debug.log
 .DS_Store
 .sass-cache
 .idea
+public/*
+public/scripts/app.js
